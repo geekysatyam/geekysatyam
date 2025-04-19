@@ -2,7 +2,7 @@
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/geekysatyam/Satyam/blob/ceaccddf4198b206b103d0983495bd30526a9b9c/Satyam%20%20Linked%20in.png)
 
-Hi, I'm **[Your Name]**, a versatile **Machine Learning Engineer** and **Data Analyst** with a passion for turning data into smart solutions. I specialize in data analysis, machine learning, visualization, and project coordination.
+Hi, I'm **[SATYAM]**, a versatile **Data Analyst** and **Machine Learning Engineer** with a passion for turning data into smart solutions. I specialize in data analysis, machine learning, visualization, and project coordination.
 
 - 📊 Data querying and reporting using **SQL**.  
 - 🧠 Building ML models using **Python** and libraries like Scikit-learn, Pandas, and NumPy.  
